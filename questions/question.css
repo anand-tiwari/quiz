@@ -4,7 +4,7 @@ input[type="radio"] {
 }
 
 .question-container {
-    width: 40%;
+    width: 70rem;
     margin: 0 auto;
     margin-top: 10rem;
     display: flex;
