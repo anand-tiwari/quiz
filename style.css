@@ -6,10 +6,11 @@
 
 :root {
     --primary-color: #112a46;
-    --secondary-color: #acc8e5;
-    --shadow-color: #18406d;
     --white: white;
     --grey: grey;
+    --light-black: #d4d5d9;
+    --white: #FFFFFF;
+    --black: #000000;
 }
 
 html {
