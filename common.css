@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #112a46;
+    --secondary-color: #acc8e5;
+    --shadow-color: #18406d;
+    --white: white;
+    --grey: grey;
+    --light-black: #d4d5d9;
+    --white: #FFFFFF;
+    --black: #000000;
+    --red: #ff0000;
+    --green: #008000;
+    --sky-blue: #0096D9;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    height: 100vh;
+}
+
+.decoration-none {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 750px) {
+    html {
+        font-size: 40%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    html {
+        font-size: 30%;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    html {
+        font-size: 20%;
+    }
+}
+
+@media screen and (max-width: 170px) {
+    html {
+        font-size: 10%;
+    }
+}
